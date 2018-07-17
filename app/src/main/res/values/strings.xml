@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Score Battle</string>
+    <string name="team_a_name">Team A</string>
+    <string name="initial_score">0</string>
+    <string name="three_points">+ 3 Points</string>
+    <string name="two_points">+ 2 Points</string>
+    <string name="one_point">+ 1 Point</string>
+    <string name="team_b_name">Team B</string>
+    <string name="reset_text">Reset</string>
+</resources>
